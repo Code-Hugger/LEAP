@@ -1,5 +1,5 @@
 # LEAP
-Learning Environment for Advanced Python. The simple, extendable, framework for creating CTF style programming puzzles.
+Learning Environment for Advanced Python. The simple and extendable framework for creating CTF style programming puzzles.
 
 play.py shows an example of how to interact with the game server, as well as solutions for all the challenges in the "basics" module.
 
